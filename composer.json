@@ -1,0 +1,11 @@
+{
+    "name": "administrator/zhongjianyu",
+    "require": {},
+    "autoload":{
+        "classmap":[
+            "App/Controllers",
+            "App/Models",
+            "App/Services"
+        ]
+    }
+}
